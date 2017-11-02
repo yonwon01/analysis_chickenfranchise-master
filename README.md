@@ -1,2 +1,2 @@
-# analysis_chickenfranchise-master
-# python beautifulsoup crawling
+# analysis_chickenfranchise
+#### python beautifulsoup crawling
